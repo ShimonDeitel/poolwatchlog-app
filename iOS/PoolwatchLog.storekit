@@ -1,0 +1,45 @@
+{
+  "identifier": "2A5F0000-0000-0000-0000-000000000000",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_locale": "en_US",
+    "_developerObserverModeEnabled": false,
+    "_storefront": "USA",
+    "_storeKitErrors": []
+  },
+  "subscriptionGroups": [
+    {
+      "id": "20000001",
+      "localizations": [],
+      "name": "Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "2.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "10000001",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Chemical trend charts and reorder reminders",
+              "displayName": "Poolwatch Log Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.poolwatchlog.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Pro Monthly",
+          "subscriptionGroupID": "20000001",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
